@@ -13,7 +13,7 @@ The original dataset had a massive amount of reviews so we added parameters to m
 - Second, we created a table where where the number of Helpful Votes divided by Total Votes is equal to or greater than 50%.
 ![50](images/greaterthan50.png)
 #### How many Vine reviews and non-Vine reviews were there?
-There were 1266 Vine members compared to 62004 Non-Vine Members.
+- There were 1266 Vine members compared to 62004 Non-Vine Members.
 
 #### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 - 432 Vine Member reviews were five stars.
